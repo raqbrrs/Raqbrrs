@@ -7,7 +7,7 @@ Meu nome é Raquel Barros de Araújo Silva e eu sou estudante da EEEP Professor 
     <a href="linkedin.com/in/raquel-barros-828b68334">
         <img 
             alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=1591EA"
+            title="Meu linkedin" 
+            src="color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=1591EA"
         />
     </a>
