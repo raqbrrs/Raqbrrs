@@ -1,17 +1,26 @@
 # 👩‍💻 Raquel Barros  
 
-<p align="center">
-  <svg width="700" height="60" xmlns="http://www.w3.org/2000/svg">
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-          font-size="28" fill="#A020F0" opacity="0">
-      Estudante de Desenvolvimento de Sistemas
-      <animate attributeName="opacity" from="0" to="1" dur="2s" fill="freeze" />
-    </text>
-  </svg>
-</p>
+<style>
+    /* 1. Define o estilo inicial para o texto */
+    .animated-title {
+        font-size: 1.5em; /* Ajusta o tamanho da fonte (pode aumentar para maior) */
+        color: #9932CC; /* Cor roxa (Roxo Médio Orquídea) */
+        font-weight: bold;
+        transition: transform 0.3s ease-in-out; /* Define a transição para a animação */
+        display: inline-block; /* Necessário para a transformação (animação) funcionar */
+    }
 
+    /* 2. Define o estilo que será aplicado ao passar o mouse (Hover) */
+    .animated-title:hover {
+        /* Animação: Aumenta um pouco o tamanho do texto (Escala) */
+        transform: scale(1.1); 
+        cursor: pointer; /* Muda o cursor para indicar que é clicável */
+    }
+</style>
 
-Meu nome é Raquel Barros de Araújo Silva e eu sou estudante da EEEP Professor Sebastião Vasconcelos Sobrinho em Tianguá, gosto de física e matemática, e me destaco pela minha capacidade analítica e facilidade com números. Meu objetivo é ingressar na faculdade na área de tecnologia e me tornar uma profissional reconhecida, contribuindo para a inovação no Brasil. Gosto de desafios e estou sempre buscando melhorar, especialmente em comunicação e habilidades interpessoais. Acredito que posso agregar com foco, determinação e visão prática para resolver problemas com eficiência.
+<p class="animated-title">Estudante de Desenvolvimento de Sistemas</p>
+
+Meu nome é Raquel Barros de Araújo Silva e eu sou estudante da EEEP Professor Sebastião Vasconcelos Sobrinho em Tianguá. Meu objetivo é ingressar na faculdade na área de tecnologia e me tornar uma profissional reconhecida, contribuindo para a inovação no Brasil. Gosto de desafios e estou sempre buscando melhorar, especialmente em comunicação e habilidades interpessoais. Acredito que posso agregar com foco, determinação e visão prática para resolver problemas com eficiência.
 
 ## Tecnologias que estão sendo aprimoradas em meu uso
 
