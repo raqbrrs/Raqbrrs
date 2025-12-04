@@ -6,12 +6,6 @@
   </span>
 </p>
 
-<style>
-@keyframes fadeIn {
-  0% { opacity: 0; }
-  100% { opacity: 1; }
-}
-</style>
 
 
 Meu nome é Raquel Barros de Araújo Silva e eu sou estudante da EEEP Professor Sebastião Vasconcelos Sobrinho em Tianguá, gosto de física e matemática, e me destaco pela minha capacidade analítica e facilidade com números. Meu objetivo é ingressar na faculdade na área de tecnologia e me tornar uma profissional reconhecida, contribuindo para a inovação no Brasil. Gosto de desafios e estou sempre buscando melhorar, especialmente em comunicação e habilidades interpessoais. Acredito que posso agregar com foco, determinação e visão prática para resolver problemas com eficiência.
