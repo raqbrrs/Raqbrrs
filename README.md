@@ -1,24 +1,8 @@
 # 👩‍💻 Raquel Barros  
 
-<style>
-    /* 1. Define o estilo inicial para o texto */
-    .animated-title {
-        font-size: 1.5em; /* Ajusta o tamanho da fonte (pode aumentar para maior) */
-        color: #9932CC; /* Cor roxa (Roxo Médio Orquídea) */
-        font-weight: bold;
-        transition: transform 0.3s ease-in-out; /* Define a transição para a animação */
-        display: inline-block; /* Necessário para a transformação (animação) funcionar */
-    }
-
-    /* 2. Define o estilo que será aplicado ao passar o mouse (Hover) */
-    .animated-title:hover {
-        /* Animação: Aumenta um pouco o tamanho do texto (Escala) */
-        transform: scale(1.1); 
-        cursor: pointer; /* Muda o cursor para indicar que é clicável */
-    }
-</style>
-
-<p class="animated-title">Estudante de Desenvolvimento de Sistemas</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=arial+Code&size=22&duration=3000&pause=1000&color=9D00FF&center=true&vCenter=true&width=435&lines=Estudante+de+Desenv.+de+Sistemas" alt="Typing SVG" />
+</div> 
 
 Meu nome é Raquel Barros de Araújo Silva e eu sou estudante da EEEP Professor Sebastião Vasconcelos Sobrinho em Tianguá. Meu objetivo é ingressar na faculdade na área de tecnologia e me tornar uma profissional reconhecida, contribuindo para a inovação no Brasil. Gosto de desafios e estou sempre buscando melhorar, especialmente em comunicação e habilidades interpessoais. Acredito que posso agregar com foco, determinação e visão prática para resolver problemas com eficiência.
 
