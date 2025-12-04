@@ -1,7 +1,7 @@
 # 👩‍💻 Raquel Barros   
 
 <p align="center">
-  <span style="font-size: 28px; color: #A020F0; animation: fadeIn 2s ease-in-out;">
+  <span style="font-size: 28px; color: purple; animation: fadeIn 2s ease-in-out;">
     Estudante de Desenvolvimento de Sistemas
   </span>
 </p>
