@@ -8,6 +8,6 @@ Meu nome é Raquel Barros de Araújo Silva e eu sou estudante da EEEP Professor 
         <img 
             alt="youtube subscribers" 
             title="Meu linkedin" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=1591EA&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=1591EA"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=1591EA&label=Meu linkedin&logo=video&logoColor=white&style=for-the-badge&labelColor=1591EA"
         />
     </a>
