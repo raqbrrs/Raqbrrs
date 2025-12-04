@@ -1,7 +1,13 @@
 # 👩‍💻 Raquel Barros  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/emanuel-bot-assets/animated-text/main/fadein-estudante.svg" width="600">
+  <svg width="700" height="60" xmlns="http://www.w3.org/2000/svg">
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+          font-size="28" fill="#A020F0" opacity="0">
+      Estudante de Desenvolvimento de Sistemas
+      <animate attributeName="opacity" from="0" to="1" dur="2s" fill="freeze" />
+    </text>
+  </svg>
 </p>
 
 
