@@ -1,5 +1,5 @@
 # 👩‍💻 Raquel Barros   
-<details>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%23A020F0&size=28&center=true&vCenter=true&width=600&lines=Estudante+de+Desenvolvimento+de+Sistemas" alt="Typing SVG">
