@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=arial+Code&size=22&duration=3000&pause=1000&color=9D00FF&center=true&vCenter=true&width=435&lines=Estudante+de+Desenv.+de+Sistemas" alt="Typing SVG" />
 </div> 
 
-Meu nome é Raquel Barros de Araújo Silva e eu sou estudante da EEEP Professor Sebastião Vasconcelos Sobrinho em Tianguá. Meu objetivo é ingressar na faculdade na área de tecnologia e me tornar uma profissional reconhecida, contribuindo para a inovação no Brasil. Gosto de desafios e estou sempre buscando melhorar, especialmente em comunicação e habilidades interpessoais. Acredito que posso agregar com foco, determinação e visão prática para resolver problemas com eficiência.
+Meu nome é Raquel Barros de Araújo Silva e eu sou estudante da EEEP Professor Sebastião Vasconcelos Sobrinho em Tianguá. Meu objetivo é ingressar na faculdade na área de tecnologia e me tornar uma profissional reconhecida, contribuindo para a inovação no Brasil. Gosto de desafios e estou sempre buscando melhorar. Acredito que posso agregar com foco, determinação e visão prática para resolver problemas com eficiência.
 
 ## Tecnologias que estão sendo aprimoradas em meu uso
 
