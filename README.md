@@ -45,4 +45,6 @@ Meu nome é Raquel Barros de Araújo Silva e eu sou estudante da EEEP Professor 
 
 ---
 
-✨ *Obrigada por visitar meu perfil! Pode me chamar para colaborar em projetos ou trocar ideias!*  
+*Obrigada por visitar meu perfil!
+<br>
+Disponibilidade para troca de ideias e colaboração em projetos!*  
