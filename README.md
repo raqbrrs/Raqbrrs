@@ -8,7 +8,7 @@
 
 Atualmente sou estudante de **Desenvolvimento de Sistemas** na EEEP Professor Sebastião Vasconcelos Sobrinho em Tianguá. Meu foco é construir soluções eficientes e inovadoras que impactem positivamente a sociedade.
 
-- 🎓 Buscando ingressar no ensino superior na área de TI.
+- 🎓 Buscando ingressar na área de TI.
 - 💡 Foco em resolução de problemas e aprendizado contínuo.
 - 🎯 Objetivo: Me tornar uma profissional referência, contribuindo para a inovação tecnológica no Brasil.
 
