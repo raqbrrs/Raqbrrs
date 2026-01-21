@@ -1,4 +1,4 @@
-# Olá, eu sou a Raquel Barros 👋
+# Raquel Barros 👩🏻‍💻
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=arial+Code&size=22&duration=3000&pause=1000&color=9D00FF&center=true&vCenter=true&width=435&lines=Estudante+de+Desenv.+de+Sistemas" alt="Typing SVG" />
