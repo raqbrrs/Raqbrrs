@@ -51,9 +51,8 @@ Atualmente sou estudante de **Desenvolvimento de Sistemas** na EEEP Professor Se
 
 ### 📊 Estatísticas de Código
 <p align="left">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=raqbrrs&layout=compact&langs_count=7&theme=dracula&hide_border=true" />
-  
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=raqbrrs&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=raqbrrs&layout=compact&langs_count=8&theme=dracula&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=raqbrrs&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" />
 </p>
 ---
 
