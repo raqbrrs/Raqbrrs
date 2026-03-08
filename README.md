@@ -38,11 +38,12 @@ Atualmente sou estudante de **Desenvolvimento de Sistemas** na EEEP Professor Se
   <img src="https://img.shields.io/badge/MIT_App_Inventor-A52A2A?style=for-the-badge&logo=google-cloud&logoColor=white" alt="MIT App Inventor" />
 </p>
 
-**Versionamento e Banco de Dados**
+**Versionamento, Cloud e Banco de Dados**
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Workbench" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
 
 </p>
 
