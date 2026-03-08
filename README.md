@@ -17,7 +17,7 @@ Atualmente sou estudante de **Desenvolvimento de Sistemas** na EEEP Professor Se
 
 ### 🛠️ Tecnologias e Ferramentas
 
-**Linguagens e Frameworks**
+**Linguagens de programação**
 <p align="left">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /> 
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
@@ -36,7 +36,6 @@ Atualmente sou estudante de **Desenvolvimento de Sistemas** na EEEP Professor Se
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/MIT_App_Inventor-A52A2A?style=for-the-badge&logo=google-cloud&logoColor=white" alt="MIT App Inventor" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
 **Versionamento e Banco de Dados**
