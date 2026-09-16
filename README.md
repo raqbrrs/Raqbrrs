@@ -56,9 +56,15 @@ Atualmente sou estudante de **Desenvolvimento de Sistemas** na EEEP Professor Se
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=raqbrrs&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" />
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eduardarf15/Eduardarf15/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eduardarf15/Eduardarf15/output/snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Eduardarf15/Eduardarf15/output/snake.svg" />
+</picture>
+
 ---
 
-Estou disponível para troca de ideias e colaboração em projetos inovadores!
+Estou disponível para troca de ideias e colaboração em projetos inovadores!💜
 
 <p align="left">
   <a href="https://linkedin.com/in/raquel-barros-828b68334" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
