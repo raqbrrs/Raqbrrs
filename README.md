@@ -4,57 +4,83 @@
   <img src="https://readme-typing-svg.demolab.com?font=arial+Code&size=22&duration=3000&pause=1000&color=9D00FF&center=true&vCenter=true&width=435&lines=Estudante+de+Desenv.+de+Sistemas" alt="Typing SVG" />
 </div> 
 
-### 🚀 Sobre Mim
 
-Atualmente sou estudante de **Desenvolvimento de Sistemas** na EEEP Professor Sebastião Vasconcelos Sobrinho em Tianguá. Meu foco é construir soluções eficientes e inovadoras que impactem positivamente a sociedade.
 
-- 🎓 Buscando ingressar na área de TI.
-- 💡 Foco em resolução de problemas e aprendizado contínuo.
-- 🎯 Objetivo: Me tornar uma profissional referência, contribuindo para a inovação tecnológica no Brasil.
+## Sobre Mim
 
----
+<img src="./banner.svg" alt="terminal banner" width="700" />
 
-### 🛠️ Tecnologias e Ferramentas
 
-**Linguagens de Programação e Web**
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /> 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
+## Info
 
-**Frameworks e Ferramentas**
-<p align="left">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/MIT_App_Inventor-A52A2A?style=for-the-badge&logo=google-cloud&logoColor=white" alt="MIT App Inventor" />
-</p>
+```java
+public class Desenvolvedora {
+    private String nome = "Raquel Barros";
+    private String localizacao = "Tianguá, CE - Brasil 🇧🇷";
+    private String cargo = "Estagiária em Desenvolvimento de Sistemas";
+    private String formacao = "EEEP Professor Sebastião Vasconcelos Sobrinho";
+    private String[] foco = {
+        "Desenvolvimento Back-End com Java e Spring Boot",
+        "Construção e consumo de APIs RESTful",
+        "Modelagem de dados e Banco de Dados MySQL",
+        "Resolução de problemas e aprendizado contínuo"
+    };
+    private String objetivo = "Buscando ingressar na área de TI para me tornar uma profissional " +
+                             "referência, contribuindo para a inovação tecnológica no Brasil.";
+}
+```
 
-**IDEs**
-<p align="left">
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-9454FF?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ" />
-  <img src="https://img.shields.io/badge/NetBeans-18476E?style=for-the-badge&logo=apache-netbeans&logoColor=white" alt="NetBeans" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-</p>
-
-**Versionamento, Cloud e Banco de Dados**
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Workbench" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-</p>
+>Estudante de Desenvolvimento de Sistemas pela EEEP Professor Sebastião Vasconcelos Sobrinho (Tianguá/CE). Foco em construção de soluções eficientes, aprendizado contínuo e aperfeiçoamento no ecossistema Java e Spring Boot.
 
 ---
 
-### 📊 Estatísticas de Código
+
+<div align="center">
+<table>
+<tr><td align="center">
+
+<b> Back-end e Database</b>
+
+</td></tr>
+<tr><td align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" title="Spring Boot" alt="Spring Boot" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>
+
+</td></tr>
+<tr><td align="center">
+
+<b> Front-end, Ferramentas e IDEs</b>
+
+</td></tr>
+<tr><td align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
+
+
+</td></tr>
+</table>
+</div>
+
+---
+
+
+### Estatísticas de Código
 <p align="left">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=raqbrrs&layout=compact&langs_count=8&theme=dracula&hide_border=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=raqbrrs&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" />
 </p>
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eduardarf15/Eduardarf15/output/snake-dark.svg" />
@@ -64,9 +90,13 @@ Atualmente sou estudante de **Desenvolvimento de Sistemas** na EEEP Professor Se
 
 ---
 
-Estou disponível para troca de ideias e colaboração em projetos inovadores!💜
+<p align="center">
+  <b>Estou disponível para troca de ideias e colaboração em projetos inovadores!💜
+</b>
+  
+</p>
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/raquel-barros-828b68334" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
   <a href="mailto:raquelbrrs07@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
